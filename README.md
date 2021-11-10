@@ -1,2 +1,3 @@
 # db
-learning sb
+learning sql 
+
